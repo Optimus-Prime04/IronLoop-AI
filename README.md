@@ -119,17 +119,7 @@ pnpm dev
 
 ---
 
-# 🔐 Environment Variables
 
-Create a `.env.local` file:
-
-```env
-NEXT_PUBLIC_SUPABASE_URL=your_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
-OPENAI_API_KEY=your_openai_key
-```
-
----
 
 # 🌍 Vision
 
